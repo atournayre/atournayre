@@ -1,9 +1,41 @@
-### Hi there 👋
+# Hi there, welcome to Aurélien Tournayre GitHub profile!
 
-Welcome to my GitHub profile!
+## Get started
 
-- 🔭 I’m currently working on a secret project!
-- 🌱 I’m currently learning to be a better developer
-- 👯 I’m looking to collaborate on symfony DDD projects
-- 📫 How to reach me: email, telepathy
+Aurélien Tournayre is available as a Symfony back-end developper.
 
+```
+atournayre new-project
+```
+
+You can use Aurélien Tournayre in other projects, not only Symfony.
+
+Then
+
+```
+atournayre new-project --no-symfony
+```
+
+There are options. You can get a list using -h flag:
+
+```
+atournayre -h
+```
+
+## Contact
+
+```
+atournayre contact # Send email to aurelien.tournayre@gmail.com
+```
+
+## Resume
+
+```
+atournayre resume # Request for a resume
+```
+
+## LinkedIn
+
+```
+atournayre linkedin # Go to https://www.linkedin.com/in/aurelientournayre/
+```
