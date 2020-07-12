@@ -16,7 +16,7 @@ Then
 atournayre new-project --no-symfony
 ```
 
-There are options. You can get a list using -h flag:
+There are options. You can get a list using ```-h``` flag:
 
 ```
 atournayre -h
