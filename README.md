@@ -1,41 +1,23 @@
-# Hi there, welcome to Aurélien Tournayre GitHub profile!
+### Welcome 👋
+I am a back-end developper from France
 
-## Get started
+## Connect with me
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](http://in.aurelien-tournayre.com)
 
-Aurélien Tournayre is available as a Symfony back-end developper.
+[<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/aurelien.tournayre.photo/)
 
-```
-atournayre new-project
-```
+<br>
+<br>
 
-You can use Aurélien Tournayre in other projects, not only Symfony.
+## Expertise
+<img align="left" alt="Symfony" src="https://img.shields.io/badge/symfony%202/4/5-%2320232a.svg?&style=for-the-badge&logo=symfony&logoColor=%23ffffff&labelColor=%23000000&color=%23ffffff" />
 
-Then
+<img align="left" alt="php" src="https://img.shields.io/badge/php%20-%2320232a.svg?&style=for-the-badge&logo=php&logoColor=%23000000&labelColor=%23ffffff&color=%238892BF&logoColor=violet" />
 
-```
-atournayre new-project --no-symfony
-```
+<img align="left" alt="javascript" src="https://img.shields.io/badge/javascript%20-%2320232a.svg?&style=for-the-badge&logo=javascript&logoColor=%23000000&labelColor=%23ffffff&color=%23000000" />
 
-There are options. You can get a list using ```-h``` flag:
+<br>
+<br>
 
-```
-atournayre -h
-```
-
-## Contact
-
-```
-atournayre contact # Send email to aurelien.tournayre@gmail.com
-```
-
-## Resume
-
-```
-atournayre resume # Request for a resume
-```
-
-## LinkedIn
-
-```
-atournayre linkedin # Go to https://www.linkedin.com/in/aurelientournayre/
-```
+## I'm also photographer
+[<img align="left" alt="Aurélien Tournayre" src="https://img.shields.io/badge/aurelien--tournayre.com%20-%2320232a.svg?&style=for-the-badge&logo=camera&logoColor=%23000000&labelColor=%23ffffff&color=%23ffffff" />](https://aurelien-tournayre.com)
