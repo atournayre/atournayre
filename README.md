@@ -1,7 +1,7 @@
 ![Header](./github-header-image.png)
 
 ### Welcome 👋
-I work as a back-end developper @[gitaroban](https://github.com/gitaroban) (Avignon, France).
+I work as a Symfony/API Platform back-end developper.
 
 ## My articles
 * [GitHub CI, PHPStan and Docker all together](https://medium.com/@atournayre/github-ci-phpstan-and-docker-all-together-8f43b9fdf48b)
